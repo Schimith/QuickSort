@@ -78,8 +78,7 @@ public class main {
 		
 		//Vetores carregados passar para o quicksort
 		//c,0,cpf.size,n,ag,co,s
-		//quick_sort(c, 0, cpf.size(), n, ag, co, s);
-        quicksort.QuickSort.quick_sort(c, 0, cpf.size(), n, ag, co, s);
+		quicksort.QuickSort.quick_sort(c, 0, cpf.size(), n, ag, co, s);
 		
 		//Os vetores c e n estao ordenados pelo valor de c(cpf)
 		//Agora é só imprimir
